@@ -1,4 +1,3 @@
-# snake_gun_water
 # 🎮 Gun Water Snake Game
 
 A modern implementation of the classic **Gun • Water • Snake** game built with **Python** and **Tkinter**.
