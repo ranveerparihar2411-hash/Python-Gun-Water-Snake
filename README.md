@@ -2,10 +2,11 @@
 
 A modern implementation of the classic **Gun • Water • Snake** game built with **Python** and **Tkinter**.
 
-I upload two files there 
-1st is main and raw file in which the raw code is written basic structure of game and the propcess how its done 
-and 2nd file is complete GUI file of that game complete devlopment of code 
+This repository contains two Python implementations of the classic Gun Water Snake game.
 
+- **main.py** – A console-based version demonstrating the core game logic.
+- **gun_water_snake_gui.py** – A complete graphical version built using Tkinter with an interactive user interface and live score tracking.
+  
 ## ✨ Features
 
 - 🖥️ Interactive graphical interface
